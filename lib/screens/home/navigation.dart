@@ -1,0 +1,4 @@
+enum Navigations {
+  recognizer,
+  synthesizer,
+}
